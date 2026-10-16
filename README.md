@@ -90,7 +90,7 @@ npm run dev
 ## ファイル構成
 
 ```text
-learn_clode_code3/
+learn_claude_code3/
 ├── SimpleToDo/         # Vanilla JavaScript版
 │   ├── index.html
 │   ├── styles.css
